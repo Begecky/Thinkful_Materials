@@ -29,14 +29,5 @@ class ACSspider(scrapy.Spider):
 							item['County'] = jsonresponse['county']
 						        
 							return item
-						        
-process = CrawlerProcess({
-				  'FEED_FORMAT': 'json',
-					'FEED_URI': 'First10.json', 
-				  'A	UTOTHROTTLE_ENABLED': True, 
-				  'USER_AGENT': 'Becky Green (greenrlg@gmail.com)',
-					'HTTPCACHE_ENABLED': False, 
-					'ROBOTSTXT_OBEY': False,
-					 })		
 										
 						
