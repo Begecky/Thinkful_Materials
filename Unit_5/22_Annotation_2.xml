@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>22</id>
+      <name>Annotation_2</name>
+      <size>15</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-04-05 03:06:48.909624+03:00</created>
+      <updated>2019-04-05 20:53:09.141662+03:00</updated>
+      <source>15 images: F002458.png, F002459.png, ...</source>
+      <labels>
+        <label>
+          <name>Character</name>
+          <attributes>
+            <attribute>@text=Value:</attribute>
+            <attribute>@select=Type:Letter,Punctuation</attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>Word</name>
+          <attributes>
+            <attribute>@text=Full_Word:</attribute>
+            <attribute>@select=Abbreviation:True,False</attribute>
+            <attribute>@text=Diplomatic:</attribute>
+            <attribute>@text=WordGroup_Num:</attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>22</id>
+          <start>0</start>
+          <stop>14</stop>
+          <url>http://localhost:9003/?id=22</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>becks6780</username>
+        <email>greenrlg@gmail.com</email>
+      </owner>
+    </task>
+    <dumped>2019-04-05 21:09:47.943737+03:00</dumped>
+  </meta>
+  <image id="0" name="F002458.png" width="400" height="729">
+    <box label="Character" xtl="26.48" ytl="87.41" xbr="43.57" ybr="118.62" occluded="0" group_id="2">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="37.22" ytl="123.10" xbr="60.30" ybr="158.77" occluded="0" group_id="7">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="92.95" ytl="85.20" xbr="114.50" ybr="120.14" occluded="0" group_id="2">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="114.49" ytl="125.30" xbr="136.00" ybr="159.51" occluded="0" group_id="7">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="132.33" ytl="86.50" xbr="159.80" ybr="118.65" occluded="0" group_id="2">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="272.01" ytl="87.40" xbr="298.80" ybr="120.88" occluded="0" group_id="3">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="192.51" ytl="126.80" xbr="212.60" ybr="161.00" occluded="0" group_id="8">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="22.36" ytl="172.10" xbr="43.20" ybr="205.58" occluded="0" group_id="10">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="95.17" ytl="170.50" xbr="115.20" ybr="205.58" occluded="0" group_id="10">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="133.07" ytl="169.86" xbr="156.00" ybr="204.84" occluded="0" group_id="10">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="169.48" ytl="172.15" xbr="189.50" ybr="203.40" occluded="0" group_id="11">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="299.50" ytl="172.90" xbr="324.80" ybr="204.10" occluded="0" group_id="12">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="116.08" ytl="85.58" xbr="132.59" ybr="119.12" occluded="0" group_id="2">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="35.57" ytl="209.70" xbr="56.20" ybr="241.64" occluded="0" group_id="14">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="222.36" ytl="208.60" xbr="243.00" ybr="242.68" occluded="0" group_id="16">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="265.18" ytl="208.10" xbr="285.80" ybr="243.19" occluded="0" group_id="16">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="336.91" ytl="172.50" xbr="353.42" ybr="206.04" occluded="0" group_id="13">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="350.84" ytl="87.70" xbr="367.30" ybr="122.97" occluded="0" group_id="6">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="116.07" ytl="170.44" xbr="132.58" ybr="203.98" occluded="0" group_id="10">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="44.36" ytl="85.58" xbr="67.06" ybr="118.61" occluded="0" group_id="2">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="66.02" ytl="85.40" xbr="92.80" ybr="120.65" occluded="0" group_id="2">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="62.92" ytl="122.70" xbr="89.20" ybr="161.41" occluded="0" group_id="7">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="89.24" ytl="123.20" xbr="114.50" ybr="161.41" occluded="0" group_id="7">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="267.76" ytl="124.60" xbr="292.00" ybr="165.02" occluded="0" group_id="8">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="325.31" ytl="172.62" xbr="338.77" ybr="205.18" occluded="0" group_id="13">
+      <attribute name="Value">Fn</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="351.92" ytl="173.88" xbr="369.13" ybr="205.80" occluded="0" group_id="13">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="196.50" ytl="206.90" xbr="220.90" ybr="242.40" occluded="0" group_id="16">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="192.44" ytl="88.10" xbr="213.40" ybr="120.36" occluded="0" group_id="3">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="189.31" ytl="170.90" xbr="208.10" ybr="203.93" occluded="0" group_id="11">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="160.98" ytl="87.80" xbr="173.50" ybr="123.79" occluded="0" group_id="3">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="313.41" ytl="86.08" xbr="325.93" ybr="122.08" occluded="0" group_id="5">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="337.20" ytl="86.71" xbr="349.72" ybr="122.71" occluded="0" group_id="5">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="135.62" ytl="123.96" xbr="148.14" ybr="159.96" occluded="0" group_id="7">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="207.30" ytl="169.30" xbr="217.60" ybr="205.03" occluded="0" group_id="11">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="231.20" ytl="170.00" xbr="241.40" ybr="205.65" occluded="0" group_id="11">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="274.60" ytl="169.30" xbr="284.90" ybr="203.60" occluded="0" group_id="12">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="371.32" ytl="171.54" xbr="383.84" ybr="207.53" occluded="0" group_id="13">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="314.04" ytl="207.84" xbr="326.56" ybr="243.84" occluded="0" group_id="16">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="330.00" ytl="216.76" xbr="341.59" ybr="231.16" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="64.10" ytl="218.64" xbr="75.68" ybr="233.04" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="85.07" ytl="216.14" xbr="96.66" ybr="230.54" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="182.42" ytl="215.20" xbr="194.00" ybr="229.60" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="54.56" ytl="207.06" xbr="72.09" ybr="240.23" occluded="0" group_id="14">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="366.94" ytl="86.40" xbr="384.50" ybr="123.18" occluded="0" group_id="6">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="211.06" ytl="125.20" xbr="227.50" ybr="161.05" occluded="0" group_id="8">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="379.77" ytl="170.44" xbr="395.10" ybr="207.70" occluded="0" group_id="13">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="140.32" ytl="207.37" xbr="160.98" ybr="242.74" occluded="0" group_id="15">
+      <attribute name="Value">R</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="161.29" ytl="205.97" xbr="181.95" ybr="241.34" occluded="0" group_id="15">
+      <attribute name="Value">R</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="287.43" ytl="207.53" xbr="311.80" ybr="242.90" occluded="0" group_id="16">
+      <attribute name="Value">R</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="225.77" ytl="124.58" xbr="246.43" ybr="159.95" occluded="0" group_id="8">
+      <attribute name="Value">R</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="147.21" ytl="124.42" xbr="173.50" ybr="160.42" occluded="0" group_id="7">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="244.86" ytl="125.50" xbr="268.30" ybr="160.89" occluded="0" group_id="8">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="291.50" ytl="126.46" xbr="317.80" ybr="162.46" occluded="0" group_id="8">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="360.99" ytl="130.26" xbr="383.05" ybr="163.40" occluded="0" group_id="9">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="98.38" ytl="207.68" xbr="121.23" ybr="242.42" occluded="0" group_id="15">
+      <attribute name="Value">D</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="253.47" ytl="87.00" xbr="273.80" ybr="121.77" occluded="0" group_id="3">
+      <attribute name="Value">D</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="229.62" ytl="82.93" xbr="253.85" ybr="123.35" occluded="0" group_id="3">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="45.57" ytl="169.60" xbr="71.10" ybr="207.87" occluded="0" group_id="10">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="71.86" ytl="168.07" xbr="96.10" ybr="208.49" occluded="0" group_id="10">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="178.20" ytl="125.05" xbr="194.47" ybr="160.73" occluded="0" group_id="8">
+      <attribute name="Value">P</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="173.19" ytl="89.68" xbr="196.35" ybr="123.17" occluded="0" group_id="3">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="211.37" ytl="85.60" xbr="231.40" ybr="122.71" occluded="0" group_id="3">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="341.58" ytl="127.71" xbr="363.00" ybr="161.21" occluded="0" group_id="9">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="252.06" ytl="171.20" xbr="276.20" ybr="205.03" occluded="0" group_id="12">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="283.37" ytl="169.66" xbr="302.30" ybr="203.15" occluded="0" group_id="12">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="247.06" ytl="207.68" xbr="263.02" ybr="243.36" occluded="0" group_id="16">
+      <attribute name="Value">L</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="218.12" ytl="169.19" xbr="231.88" ybr="204.87" occluded="0" group_id="11">
+      <attribute name="Value">L</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="118.41" ytl="207.68" xbr="141.26" ybr="241.49" occluded="0" group_id="15">
+      <attribute name="Value"></attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="300.27" ytl="86.86" xbr="316.55" ybr="120.35" occluded="0" group_id="5">
+      <attribute name="Value"></attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="322.18" ytl="128.00" xbr="341.00" ybr="162.15" occluded="0" group_id="9">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="239.23" ytl="172.79" xbr="255.51" ybr="206.28" occluded="0" group_id="11">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="156.29" ytl="170.43" xbr="170.68" ybr="203.92" occluded="0" group_id="11">
+      <attribute name="Value">F</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="325.26" ytl="86.84" xbr="339.77" ybr="123.12" occluded="0" group_id="5">
+      <attribute name="Value">B</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="76.79" ytl="209.65" xbr="89.94" ybr="240.82" occluded="0">
+      <attribute name="Value">L</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Word" xtl="24.88" ytl="84.30" xbr="160.76" ybr="120.85" occluded="0">
+      <attribute name="Full_Word">Annaea</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">ANNAEA</attribute>
+      <attribute name="WordGroup_Num">0</attribute>
+    </box>
+    <box label="Word" xtl="159.89" ytl="85.33" xbr="298.35" ybr="122.74" occluded="0">
+      <attribute name="Full_Word">Iucunda</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">IUCUNDA</attribute>
+      <attribute name="WordGroup_Num">1</attribute>
+    </box>
+    <box label="Word" xtl="298.35" ytl="85.33" xbr="350.81" ybr="124.46" occluded="0">
+      <attribute name="Full_Word">sibi</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">SIBI</attribute>
+      <attribute name="WordGroup_Num">2</attribute>
+    </box>
+    <box label="Word" xtl="350.81" ytl="84.48" xbr="383.92" ybr="123.17" occluded="0">
+      <attribute name="Full_Word">et</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">ET</attribute>
+      <attribute name="WordGroup_Num">3</attribute>
+    </box>
+    <box label="Word" xtl="36.49" ytl="122.31" xbr="173.65" ybr="162.30" occluded="0">
+      <attribute name="Full_Word">Annaio</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">ANNAIO</attribute>
+      <attribute name="WordGroup_Num">4</attribute>
+    </box>
+    <box label="Word" xtl="175.80" ytl="123.17" xbr="320.71" ybr="163.59" occluded="0">
+      <attribute name="Full_Word">Patrono</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">PATRONO</attribute>
+      <attribute name="WordGroup_Num">5</attribute>
+    </box>
+    <box label="Word" xtl="321.14" ytl="126.18" xbr="384.77" ybr="164.02" occluded="0">
+      <attribute name="Full_Word">suo</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">SUO</attribute>
+      <attribute name="WordGroup_Num">6</attribute>
+    </box>
+    <box label="Word" xtl="21.44" ytl="168.75" xbr="156.03" ybr="205.73" occluded="0">
+      <attribute name="Full_Word">Annaea</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">ANNAEA</attribute>
+      <attribute name="WordGroup_Num">7</attribute>
+    </box>
+    <box label="Word" xtl="156.88" ytl="168.32" xbr="254.49" ybr="206.16" occluded="0">
+      <attribute name="Full_Word">Facilis</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">FACILIS</attribute>
+      <attribute name="WordGroup_Num">8</attribute>
+    </box>
+    <box label="Word" xtl="254.92" ytl="169.61" xbr="325.44" ybr="205.30" occluded="0">
+      <attribute name="Full_Word">Viva</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">VIVA</attribute>
+      <attribute name="WordGroup_Num">9</attribute>
+    </box>
+    <box label="Word" xtl="325.87" ytl="170.04" xbr="395.09" ybr="207.02" occluded="0">
+      <attribute name="Full_Word">Fecit</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">FECIT</attribute>
+      <attribute name="WordGroup_Num">10</attribute>
+    </box>
+    <box label="Word" xtl="36.49" ytl="208.31" xbr="70.89" ybr="240.99" occluded="0">
+      <attribute name="Full_Word">et</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">ET</attribute>
+      <attribute name="WordGroup_Num">11</attribute>
+    </box>
+    <box label="Word" xtl="76.05" ytl="207.45" xbr="90.67" ybr="240.99" occluded="0">
+      <attribute name="Full_Word">Lucio</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">L</attribute>
+      <attribute name="WordGroup_Num">12</attribute>
+    </box>
+    <box label="Word" xtl="96.69" ytl="206.16" xbr="182.25" ybr="242.28" occluded="0">
+      <attribute name="Full_Word">Dyrracino</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">DYRR</attribute>
+      <attribute name="WordGroup_Num">13</attribute>
+    </box>
+    <box label="Word" xtl="196.87" ytl="206.59" xbr="328.45" ybr="244.86" occluded="0">
+      <attribute name="Full_Word">Celeri</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">CELERI</attribute>
+      <attribute name="WordGroup_Num">14</attribute>
+    </box>
+  </image>
+  <image id="1" name="F002459.png" width="399" height="594">
+    <box label="Character" xtl="39.92" ytl="127.28" xbr="87.39" ybr="217.06" occluded="0" group_id="17">
+      <attribute name="Value">H</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="17.73" ytl="238.68" xbr="60.04" ybr="314.01" occluded="0" group_id="18">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="125.04" ytl="252.61" xbr="175.10" ybr="327.95" occluded="0" group_id="18">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="68.80" ytl="349.60" xbr="116.30" ybr="425.46" occluded="0" group_id="19">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="297.38" ytl="355.80" xbr="328.70" ybr="428.90" occluded="0" group_id="19">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="116.80" ytl="362.51" xbr="150.34" ybr="432.68" occluded="0" group_id="19">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="294.54" ytl="135.30" xbr="329.10" ybr="216.49" occluded="0" group_id="17">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="89.97" ytl="124.64" xbr="117.83" ybr="223.71" occluded="0" group_id="17">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="326.27" ytl="131.90" xbr="352.40" ybr="219.40" occluded="0" group_id="17">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="93.05" ytl="245.90" xbr="120.90" ybr="328.46" occluded="0" group_id="18">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="218.43" ytl="257.80" xbr="244.70" ybr="338.10" occluded="0" group_id="18">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="348.50" ytl="356.28" xbr="363.74" ybr="418.40" occluded="0" group_id="19">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="271.08" ytl="361.99" xbr="299.97" ybr="430.10" occluded="0" group_id="19">
+      <attribute name="Value">L</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="263.80" ytl="136.50" xbr="295.80" ybr="221.14" occluded="0" group_id="17">
+      <attribute name="Value">L</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="149.82" ytl="378.51" xbr="186.46" ybr="439.91" occluded="0" group_id="19">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="338.90" ytl="247.70" xbr="373.40" ybr="320.46" occluded="0" group_id="18">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="57.71" ytl="244.60" xbr="94.30" ybr="318.40" occluded="0" group_id="18">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="121.96" ytl="128.77" xbr="180.27" ybr="224.74" occluded="0" group_id="17">
+      <attribute name="Value">R</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="167.88" ytl="126.19" xbr="215.35" ybr="226.29" occluded="0" group_id="17">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="170.45" ytl="253.60" xbr="217.90" ybr="335.00" occluded="0" group_id="18">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="225.67" ytl="367.67" xbr="268.50" ybr="429.59" occluded="0" group_id="19">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="287.83" ytl="251.58" xbr="338.40" ybr="320.20" occluded="0" group_id="18">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="207.34" ytl="136.52" xbr="265.10" ybr="224.20" occluded="0" group_id="17">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="347.17" ytl="129.81" xbr="374.00" ybr="219.60" occluded="0" group_id="17">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="249.92" ytl="258.28" xbr="292.75" ybr="330.52" occluded="0" group_id="18">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="187.22" ytl="372.83" xbr="230.04" ybr="445.07" occluded="0" group_id="19">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="327.32" ytl="360.45" xbr="346.93" ybr="423.91" occluded="0" group_id="19">
+      <attribute name="Value">P</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Word" xtl="34.89" ytl="121.68" xbr="379.53" ybr="228.13" occluded="0">
+      <attribute name="Full_Word">Hirtuleius</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">HIRTULEIU</attribute>
+      <attribute name="WordGroup_Num">0</attribute>
+    </box>
+    <box label="Word" xtl="14.04" ytl="234.53" xbr="376.55" ybr="324.60" occluded="0">
+      <attribute name="Full_Word">Asiaticus</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">ASIATICUS</attribute>
+      <attribute name="WordGroup_Num">1</attribute>
+    </box>
+    <box label="Word" xtl="62.43" ytl="346.18" xbr="372.09" ybr="433.28" occluded="0">
+      <attribute name="Full_Word">Aesculapio</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">AESCULAPIO</attribute>
+      <attribute name="WordGroup_Num">2</attribute>
+    </box>
+  </image>
+  <image id="2" name="F002460.png" width="400" height="502">
+    <box label="Character" xtl="72.79" ytl="70.53" xbr="102.36" ybr="130.29" occluded="0">
+      <attribute name="Value">P</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="146.73" ytl="70.00" xbr="180.10" ybr="137.47" occluded="0">
+      <attribute name="Value">P</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="106.76" ytl="71.09" xbr="143.25" ybr="136.52" occluded="0">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="67.16" ytl="196.92" xbr="105.50" ybr="251.00" occluded="0">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="156.49" ytl="198.81" xbr="191.70" ybr="251.00" occluded="0">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="32.56" ytl="250.39" xbr="61.30" ybr="294.90" occluded="0" group_id="21">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="286.70" ytl="257.93" xbr="317.79" ybr="298.01" occluded="0" group_id="22">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="62.72" ytl="251.01" xbr="83.48" ybr="296.93" occluded="0" group_id="21">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="105.21" ytl="198.48" xbr="129.70" ybr="248.20" occluded="0">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="13.66" ytl="247.86" xbr="35.67" ybr="296.93" occluded="0" group_id="21">
+      <attribute name="Value">F</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="84.74" ytl="250.38" xbr="102.99" ybr="295.67" occluded="0" group_id="21">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="136.03" ytl="196.28" xbr="154.30" ybr="251.60" occluded="0">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="112.42" ytl="135.26" xbr="141.99" ybr="195.02" occluded="0">
+      <attribute name="Value">L</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="237.95" ytl="253.21" xbr="266.10" ybr="298.50" occluded="0" group_id="22">
+      <attribute name="Value">L</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="106.13" ytl="251.01" xbr="128.15" ybr="293.16" occluded="0" group_id="21">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="197.05" ytl="252.54" xbr="222.89" ybr="296.62" occluded="0" group_id="22">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="214.67" ytl="202.70" xbr="244.90" ybr="250.07" occluded="0" group_id="20">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="169.38" ytl="138.70" xbr="200.80" ybr="195.97" occluded="0">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="146.39" ytl="254.78" xbr="183.51" ybr="296.93" occluded="0" group_id="22">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="270.66" ytl="203.52" xbr="311.50" ybr="254.50" occluded="0" group_id="20">
+      <attribute name="Value">V</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="18.06" ytl="195.02" xbr="67.76" ybr="249.12" occluded="0">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="22.46" ytl="135.26" xbr="72.79" ybr="193.76" occluded="0">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="247.05" ytl="203.83" xbr="273.47" ybr="252.90" occluded="0" group_id="20">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="311.23" ytl="204.46" xbr="337.65" ybr="253.53" occluded="0" group_id="20">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="337.63" ytl="201.94" xbr="374.12" ybr="258.56" occluded="0" group_id="20">
+      <attribute name="Value">R</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Word" xtl="210.56" ytl="198.86" xbr="375.38" ybr="258.62" occluded="0">
+      <attribute name="Full_Word">Severa</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">SEVER</attribute>
+      <attribute name="WordGroup_Num">0</attribute>
+    </box>
+    <box label="Word" xtl="13.66" ytl="245.98" xbr="130.04" ybr="297.56" occluded="0">
+      <attribute name="Full_Word">Fatis</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">FATIS</attribute>
+      <attribute name="WordGroup_Num">1</attribute>
+    </box>
+    <box label="Word" xtl="143.25" ytl="251.01" xbr="324.42" ybr="300.08" occluded="0">
+      <attribute name="Full_Word">Votum Solverunt Libentes Animo</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">VSIA</attribute>
+      <attribute name="WordGroup_Num">2</attribute>
+    </box>
+    <box label="Character" xtl="323.17" ytl="262.40" xbr="340.78" ybr="284.41" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="265.94" ytl="261.39" xbr="283.55" ybr="283.41" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="225.05" ytl="261.39" xbr="242.66" ybr="283.41" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="185.42" ytl="261.39" xbr="203.03" ybr="283.41" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="128.80" ytl="263.28" xbr="146.41" ybr="285.30" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+    <box label="Character" xtl="194.22" ytl="213.58" xbr="211.84" ybr="235.60" occluded="0">
+      <attribute name="Value">•</attribute>
+      <attribute name="Type">Punctuation</attribute>
+    </box>
+  </image>
+  <image id="3" name="F002466.png" width="688" height="400">
+    <box label="Character" xtl="235.41" ytl="51.32" xbr="252.74" ybr="123.15" occluded="0" group_id="23">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="286.81" ytl="144.21" xbr="308.90" ybr="207.00" occluded="0" group_id="27">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="608.16" ytl="231.53" xbr="632.30" ybr="292.80" occluded="0" group_id="32">
+      <attribute name="Value">I</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="162.34" ytl="146.06" xbr="213.11" ybr="201.16" occluded="0" group_id="27">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="250.27" ytl="49.80" xbr="306.60" ybr="122.20" occluded="0" group_id="23">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="411.88" ytl="147.63" xbr="463.90" ybr="210.80" occluded="0" group_id="28">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="260.18" ytl="228.74" xbr="315.30" ybr="291.90" occluded="0" group_id="31">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="425.50" ytl="228.12" xbr="476.90" ybr="291.90" occluded="0" group_id="32">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="496.09" ytl="228.74" xbr="546.90" ybr="292.50" occluded="0" group_id="32">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="584.63" ytl="57.23" xbr="640.40" ybr="126.60" occluded="0" group_id="26">
+      <attribute name="Value">O</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="359.24" ytl="145.44" xbr="411.25" ybr="208.59" occluded="0" group_id="28">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="307.86" ytl="48.87" xbr="364.20" ybr="123.80" occluded="0" group_id="24">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="374.73" ytl="227.54" xbr="426.74" ybr="290.69" occluded="0" group_id="32">
+      <attribute name="Value">C</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="258.31" ytl="145.81" xbr="288.65" ybr="207.11" occluded="0" group_id="27">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="201.70" ytl="214.23" xbr="234.50" ybr="287.90" occluded="0" group_id="31">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="312.18" ytl="228.16" xbr="358.00" ybr="295.65" occluded="0" group_id="31">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="543.14" ytl="227.20" xbr="587.10" ybr="294.10" occluded="0" group_id="32">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="362.34" ytl="49.53" xbr="408.20" ybr="124.40" occluded="0" group_id="24">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="213.44" ytl="138.36" xbr="257.39" ybr="205.27" occluded="0" group_id="27">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="218.40" ytl="51.40" xbr="238.81" ybr="123.20" occluded="0" group_id="23">
+      <attribute name="Value">T</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="306.61" ytl="143.33" xbr="343.76" ybr="209.58" occluded="0" group_id="27">
+      <attribute name="Value">F</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="407.54" ytl="48.91" xbr="442.80" ybr="125.10" occluded="0" group_id="25">
+      <attribute name="Value">F</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="172.25" ytl="230.02" xbr="210.64" ybr="291.32" occluded="0" group_id="31">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="444.08" ytl="50.10" xbr="483.10" ybr="126.31" occluded="0" group_id="26">
+      <attribute name="Value">A</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="6.93" ytl="221.35" xbr="56.46" ybr="286.98" occluded="0" group_id="29">
+      <attribute name="Value">D</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="65.14" ytl="223.21" xbr="120.90" ybr="288.84" occluded="0" group_id="30">
+      <attribute name="Value">D</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="464.50" ytl="147.05" xbr="500.41" ybr="208.97" occluded="0" group_id="28">
+      <attribute name="Value">S</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="586.48" ytl="232.50" xbr="613.10" ybr="293.17" occluded="0" group_id="32">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="524.26" ytl="49.80" xbr="551.50" ybr="124.14" occluded="0" group_id="26">
+      <attribute name="Value">E</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="546.55" ytl="48.58" xbr="591.70" ybr="129.10" occluded="0" group_id="26">
+      <attribute name="Value">N</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="475.64" ytl="230.64" xbr="500.41" ybr="290.70" occluded="0" group_id="32">
+      <attribute name="Value">Ln</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="483.69" ytl="46.74" xbr="525.18" ybr="126.00" occluded="0" group_id="26">
+      <attribute name="Value">H</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="640.34" ytl="49.22" xbr="683.69" ybr="140.24" occluded="0" group_id="26">
+      <attribute name="Value">B</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="144.39" ytl="228.16" xbr="175.34" ybr="288.22" occluded="0" group_id="31">
+      <attribute name="Value">Pnnn</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Character" xtl="229.21" ytl="227.11" xbr="266.36" ybr="296.45" occluded="0" group_id="31">
+      <attribute name="Value">R</attribute>
+      <attribute name="Type">Letter</attribute>
+    </box>
+    <box label="Word" xtl="213.73" ytl="48.04" xbr="308.47" ybr="124.20" occluded="0">
+      <attribute name="Full_Word">Domitio</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">TIO</attribute>
+      <attribute name="WordGroup_Num">0</attribute>
+    </box>
+    <box label="Word" xtl="308.47" ytl="47.36" xbr="410.63" ybr="125.38" occluded="0">
+      <attribute name="Full_Word">Cnaei</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">CN</attribute>
+      <attribute name="WordGroup_Num">1</attribute>
+    </box>
+    <box label="Word" xtl="409.39" ytl="48.66" xbr="444.69" ybr="124.82" occluded="0">
+      <attribute name="Full_Word">Filio</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">F</attribute>
+      <attribute name="WordGroup_Num">2</attribute>
+    </box>
+    <box label="Word" xtl="444.07" ytl="47.98" xbr="683.07" ybr="134.66" occluded="0">
+      <attribute name="Full_Word">Ahenobarbo</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">AHENOB</attribute>
+      <attribute name="WordGroup_Num">3</attribute>
+    </box>
+    <box label="Word" xtl="158.63" ytl="140.24" xbr="345.00" ybr="208.97" occluded="0">
+      <attribute name="Full_Word">Pontif</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">ONTIF</attribute>
+      <attribute name="WordGroup_Num">4</attribute>
+    </box>
+    <box label="Word" xtl="360.96" ytl="145.36" xbr="502.31" ybr="210.03" occluded="0">
+      <attribute name="Full_Word">Consuli</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">COS</attribute>
+      <attribute name="WordGroup_Num">5</attribute>
+    </box>
+    <box label="Word" xtl="5.56" ytl="222.56" xbr="57.69" ybr="287.22" occluded="0">
+      <attribute name="Full_Word">Decreto</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">D</attribute>
+      <attribute name="WordGroup_Num">6</attribute>
+    </box>
+    <box label="Word" xtl="66.22" ytl="223.06" xbr="121.35" ybr="288.72" occluded="0">
+      <attribute name="Full_Word">Decurionum</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">D</attribute>
+      <attribute name="WordGroup_Num">7</attribute>
+    </box>
+    <box label="Word" xtl="142.41" ytl="224.06" xbr="358.45" ybr="296.24" occluded="0">
+      <attribute name="Full_Word">Patrono</attribute>
+      <attribute name="Abbreviation">True</attribute>
+      <attribute name="Diplomatic">PATRON</attribute>
+      <attribute name="WordGroup_Num">8</attribute>
+    </box>
+    <box label="Word" xtl="372.99" ytl="226.07" xbr="634.15" ybr="293.74" occluded="0">
+      <attribute name="Full_Word">Colonei</attribute>
+      <attribute name="Abbreviation">False</attribute>
+      <attribute name="Diplomatic">COLONEI</attribute>
+      <attribute name="WordGroup_Num">9</attribute>
+    </box>
+  </image>
+</annotations>

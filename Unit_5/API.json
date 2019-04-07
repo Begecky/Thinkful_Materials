@@ -1,0 +1,1091 @@
+{
+   "limit" : "20",
+   "total" : 113,
+   "items" : [
+      {
+         "not_after" : "0300",
+         "transcription" : "[I](ovi) O(ptimo) M(aximo) e[t] / Matronis / pontem / C(aius) Hedius Silva/nus IIIIIIvir / Aug(ustalis) / v(otum) s(olvit) l(ibens) m(erito) l(ocus) d(atus) d(ecreto) d(ecurionum) // I(ovi) O(ptimo) M(aximo) e[t] / Matronis / pontem / C(aius) Hedius Silv/anus IIIIIIvir / Aug(ustalis) / v(otum) s(olvit) l(ibens) m(erito) l(ocus) d(atus) d(ecreto) d(ecurionum)",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208726",
+         "country" : "Germany",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30226",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001266",
+         "letter_size" : "5-10 cm",
+         "modern_region" : "Nordrhein-Westfalen",
+         "social_economic_legal_history" : "data available",
+         "responsible_individual" : "Feraudi",
+         "not_before" : "0201",
+         "commentary" : " Erste Dedikation gemeinsam an Iuppiter und Matronen. Stein war wohl auf Brücke aufgestellt, vermutlich daher die beidseitige Beschriftung. (B): Phantasietext, d.h. Mischung aus beiden Texten hinsichtlich der Zeilenfälle und erhaltenen Buchstaben.",
+         "religion" : "names of pagan deitiescult functions, pagan",
+         "findspot_ancient" : "Colonia Claudia Ara Agrippinensium",
+         "type_of_monument" : "altar",
+         "depth" : "(44) cm",
+         "diplomatic_text" : "[ ] O M E[ ] / MATRONIS / PONTEM / C HEDIVS SILVA / NVS IIIIIIVIR / AVG / V S L M L D D D / / I O M E[ ] / MATRONIS / PONTEM / C HEDIVS SILV / ANVS IIIIIIVIR / AVG / V S L M L D D D",
+         "present_location" : "Köln, Röm.-Germ. Mus.",
+         "province_label" : "Germania inferior",
+         "people" : [
+            {
+               "praenomen" : "C.",
+               "nomen" : "Hedius",
+               "person_id" : "1",
+               "cognomen" : "Silvanus",
+               "status" : "Augustales",
+               "gender" : "male",
+               "name" : "C. Hedius Silvanus"
+            }
+         ],
+         "language" : "Latin",
+         "findspot_modern" : "Köln",
+         "year_of_find" : "1979",
+         "literature" : "AE 1984, 0654. (B); B. Galsterer - H. Galsterer, in: EpStud 13 (Köln 1983) 174-177, Nr. 5; Abb. 5a u. 5b. - AE 1984.; B. Galsterer - H. Galsterer, Die römischen Steininschriften aus Köln, IKöln (2.; Aufl.) (Mainz 2010) 102-103, Nr. 94; Fotos.; A.G. Garman, The cult of the matronae in the Roman Rhineland. An historical evaluation of the archaeological evidence (Lewiston 2008) 150, Nr. 305 u. 306.",
+         "type_of_inscription" : "votive inscription",
+         "height" : "(98) cm",
+         "material" : "limestone: rocks - clastic sediments",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F002448.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F028470.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F037093.JPG"
+         ],
+         "id" : "HD001266",
+         "last_update" : "2018-12-28",
+         "width" : "(55) cm",
+         "geography" : "data available",
+         "work_status" : "checked with photo",
+         "findspot" : "Jahnstraße / Humboldtstraße, Ecke"
+      },
+      {
+         "religion" : "names of pagan deities",
+         "type_of_monument" : "altar",
+         "findspot_ancient" : "Colonia Claudia Ara Agrippinensium",
+         "width" : "(41) cm",
+         "diplomatic_text" : "MATRIBVS SVEB[ ]S / SIDINIS M / [ ]VDIVS ACCEPT[ ] / V S L M",
+         "depth" : "(19) cm",
+         "present_location" : "Köln, Röm.-Germ. Mus.",
+         "work_status" : "checked with photo",
+         "province_label" : "Germania inferior",
+         "findspot" : "Am Domhof?",
+         "id" : "HD001278",
+         "responsible_individual" : "Feraudi",
+         "last_update" : "2018-04-13",
+         "not_before" : "0201",
+         "modern_region" : "Nordrhein-Westfalen",
+         "material" : "limestone: rocks - clastic sediments",
+         "people" : [
+            {
+               "gender" : "male",
+               "name" : "M. [---]udius Accept[us]",
+               "person_id" : "1",
+               "cognomen" : "Acceptus+",
+               "praenomen" : "M.",
+               "nomen" : "[---]udius"
+            }
+         ],
+         "language" : "Latin",
+         "not_after" : "0230",
+         "transcription" : "Matribus Sueb[i]s / Sidinis M(arcus) / [--]udius Accept[us] / v(otum) s(olvit) l(ibens) m(erito)",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208731",
+         "country" : "Germany",
+         "findspot_modern" : "Köln",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30266",
+         "year_of_find" : "1981",
+         "type_of_inscription" : "votive inscription",
+         "literature" : "AE 1984, 0655.; B. Galsterer - H. Galsterer, in: EpStud 13 (Köln 1983) 177-178, Nr. 6; Abb. 6. - AE 1984.; B. Galsterer - H. Galsterer, Die römischen Steininschriften aus Köln, IKöln (2.; Aufl.) (Mainz 2010) 150-151, Nr. 159; Foto.",
+         "height" : "(42.5) cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001278",
+         "letter_size" : "2.8-2.2 cm"
+      },
+      {
+         "findspot" : "Museum Ludwig, Baugrube",
+         "province_label" : "Germania inferior",
+         "width" : "(31) cm",
+         "depth" : "32 cm",
+         "present_location" : "Köln, Röm.-Germ. Mus.",
+         "diplomatic_text" : "CN DOMI[ ] / PRO SE ET SVIS V S [ ] / AVG FAVSTINO [ ]",
+         "work_status" : "checked with photo",
+         "type_of_monument" : "altar",
+         "findspot_ancient" : "Colonia Claudia Ara Agrippinensium",
+         "not_before" : "0210",
+         "last_update" : "2018-10-22",
+         "id" : "HD001281",
+         "responsible_individual" : "Feraudi",
+         "material" : "limestone: rocks - clastic sediments",
+         "modern_region" : "Nordrhein-Westfalen",
+         "height" : "(26) cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001281",
+         "letter_size" : "3-2.5 cm",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30119",
+         "year_of_find" : "1980",
+         "literature" : "AE 1984, 0656.; B. Galsterer - H. Galsterer, in: EpStud 13 (Köln 1983) 181-182, Nr. 10; Abb. 10. - AE 1984.; PIR (2. Aufl.) A 57.; PIR (2. Aufl.) T 342.; B. Galsterer - H. Galsterer, Die römischen Steininschriften aus Köln, IKöln (2.; Aufl.) (Mainz 2010) 105-106, Nr. 98; Foto.",
+         "type_of_inscription" : "votive inscription",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208732",
+         "country" : "Germany",
+         "findspot_modern" : "Köln",
+         "language" : "Latin",
+         "people" : [
+            {
+               "gender" : "male",
+               "name" : "Cn. Domi[tius ---]",
+               "praenomen" : "Cn.",
+               "nomen" : "Domitius+",
+               "person_id" : "1",
+               "cognomen" : "[---]"
+            },
+            {
+               "status" : "senatorial order",
+               "cognomen" : "Faustinus",
+               "person_id" : "2",
+               "name" : "Faustino",
+               "gender" : "male"
+            },
+            {
+               "gender" : "male",
+               "name" : "[Rufino]",
+               "person_id" : "3",
+               "status" : "senatorial order",
+               "cognomen" : "Rufinus+"
+            }
+         ],
+         "transcription" : "Cn(aeus) Domi[tius ---] / pro se et suis v(otum) s(olvit) [l(ibens) m(erito) a(nte) d(iem)? --- Idus?] / Aug(ustas) Faustino [et Rufino co(n)s(ulibus)]"
+      },
+      {
+         "country" : "Germany",
+         "findspot_modern" : "Osterburken",
+         "external_image_uris" : [
+            "http://lupa.at/25512"
+         ],
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209819",
+         "transcription" : "In h(onorem) d(omus) d(ivinae) I(ovi) O(ptimo) M(aximo) / Iun(oni) Reg(inae) Fort(unae) / Red(uci) dis dea/busq(ue) omnib(us) / Genio loci / P(ublius) Iun(ius) Secun/dus b(ene)f(iciarius) co(n)s(ularis) / pro se et suos(!) / v(otum) s(olvit)",
+         "not_after" : "0250",
+         "people" : [
+            {
+               "name" : "P. Iun. Secundus",
+               "gender" : "male",
+               "cognomen" : "Secundus",
+               "status" : "military personnel",
+               "person_id" : "1",
+               "nomen" : "Iunius*",
+               "praenomen" : "P."
+            }
+         ],
+         "language" : "Latin",
+         "height" : "138 cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD002093",
+         "literature" : "AE 1985, 0694.; E. Schallmayer, in: Der Keltenfürst von Hochdorf (Stuttgart 1985) 403, Nr. 10; Abb. 603. - AE 1985.; E. Schallmayer - K. Eibl - J. Ott - G. Preuß - E. Wittkopf, Der römische Weihebezirk von Osterburken 1 (Stuttgart 1990) 137-138, Nr. 151; Fotos.",
+         "type_of_inscription" : "votive inscription",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8264",
+         "year_of_find" : "1982",
+         "modern_region" : "Baden-Württemberg",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F028139.JPG"
+         ],
+         "responsible_individual" : "Feraudi",
+         "id" : "HD002093",
+         "not_before" : "0201",
+         "last_update" : "2010-02-17",
+         "findspot_ancient" : "(Civitas Alisinensium)",
+         "type_of_monument" : "altar",
+         "religion" : "names of pagan deities",
+         "province_label" : "Germania superior",
+         "findspot" : "Benefiziarierweihebezirk, unter der Brücke",
+         "work_status" : "checked with photo",
+         "depth" : "26 cm",
+         "present_location" : "Osterburken, Römermus.",
+         "diplomatic_text" : "IN H D D I O M / IVN REG FORT / RED DIS DEA / BVSQ OMNIB / GENIO LOCI / P IVN SECVN / DVS BF COS / PRO SE ET SVOS / V S",
+         "width" : "62 cm"
+      },
+      {
+         "findspot_ancient" : "(Civitas Alisinensium)",
+         "type_of_monument" : "altar",
+         "commentary" : " Beim Abbruch der Kirche St. Kilian gefunden. Auf der rechten Nebenseite Akanthusornament. (B):AE 1978; Schillinger-Häfele 1977: Z. 1: ---]inniu(?)[s? ---]; Schallmayer et al.; RSO: kleinere Abweichungen in Lesung/Ergänzung.",
+         "religion" : "names of pagan deities",
+         "province_label" : "Germania superior",
+         "present_location" : "Osterburken, Römermus.",
+         "diplomatic_text" : "] / [ ]INNV[ ] / [ ] CALEN[ ] / [ ]TIVS BF [ ] / [ ]II AVG AN[ ] / [ ]AE P F C C [ ] / [ ] N ANTON[ ] / ET CAELIO [ ] / COS ID IAN [ ]",
+         "depth" : "(20) cm",
+         "responsible_individual" : "osnabrügge",
+         "not_before" : "0213",
+         "modern_region" : "Baden-Württemberg",
+         "country" : "Germany",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209845",
+         "transcription" : "------] / [---]INNV[---] / [--?] Calen[us ---] / [--?]tius b(ene)f(iciarius) [co(n)s(ularis) leg(ionis)] / [VI]II Aug(ustae) An[toninia]/[n]ae p(iae) f(idelis) c(onstantis) C(ommodae) [---] / [d(omino)] n(ostro) Anton[ino Aug(usto) IIII] / et Caelio [Balbino II] / co(n)s(ulibus) Id(ibus) Ian(uariis) [v(otum) s(olvit) l(ibens) l(aetus) m(erito)]",
+         "letter_size" : "6.5-6.0 cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004516",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8810",
+         "findspot" : "S. Kilian, altes Kirchengebäude, sekundär verwendet",
+         "work_status" : "checked with photo",
+         "width" : "(30) cm",
+         "geography" : "data available",
+         "id" : "HD004516",
+         "last_update" : "2018-11-14",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F034889.JPG"
+         ],
+         "material" : "sandstone: rocks - clastic sediments",
+         "findspot_modern" : "Osterburken",
+         "language" : "Latin",
+         "people" : [
+            {
+               "status" : "military personnel",
+               "nomen" : "[---]innu[---]?",
+               "person_id" : "1",
+               "cognomen" : "Calenus+",
+               "praenomen" : "[-]",
+               "gender" : "male",
+               "origo" : "[---]tius",
+               "name" : "[---]INNV[---] Calen[us ---]tius"
+            },
+            {
+               "person_id" : "2",
+               "cognomen" : "Antoninus+",
+               "gender" : "male",
+               "name" : "Anton[ino]"
+            },
+            {
+               "nomen" : "Caelius",
+               "cognomen" : "Balbinus+",
+               "status" : "senatorial order",
+               "person_id" : "3",
+               "name" : "Caelio [Balbino]",
+               "gender" : "male"
+            }
+         ],
+         "height" : "(62) cm",
+         "literature" : "AE 1978, 0526. (B); U. Schillinger-Häfele, FBW 1, 1974, 536-538, Nr. 2; Abb. 2.; U. Schillinger-Häfele, BRGK 58, 1977, 481-482, Nr. 45. (B) - AE 1978.; RSO 093. (B); E. Schallmayer - K. Eibl - J. Ott. - G. Preuß - E. Wittkopf, Der römische Weihebezirk von Osterburken 1 (Stuttgart 1990) 157-158, Nr. 172; Abb. 172. (B); PIR (2. Aufl.) C 126.",
+         "military" : "data available",
+         "type_of_inscription" : "votive inscription",
+         "year_of_find" : "1971"
+      },
+      {
+         "modern_region" : "Baden-Württemberg",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004519",
+         "letter_size" : "6.0-5.5 cm",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8810",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209846",
+         "country" : "Germany",
+         "transcription" : "In h(onorem) d(omus) d(ivinae) I(ovi) O(ptimo) M(aximo) / Iunon[i] Regin(a)e / Minerv(a)e Bono / Even[tui Ge]nio lo/ci deo patrio / Marti Conservatori / d(is) d(eabusque) om(nibus) C(aius) Securi/us Domit[ia]nus m/il(es) leg(ionis) VIII [Aug(ustae)] p(iae) f(idelis) c(onstantis) C(ommodae) / Antonin[ianae b(ene)f(iciarius)] / [co(n)]s(ularis) pro [se et suis] / [ter]tia stat(ione) [v(otum) s(olvit) l(ibens) m(erito) Id(ibus)] / Iul(iis) duob(us) A[spris co(n)s(ulibus)]",
+         "province_label" : "Germania superior",
+         "present_location" : "Osterburken, Römermus.",
+         "depth" : "34 cm",
+         "diplomatic_text" : "IN H D D I O M / IVNON[ ] REGINE / MINERVE BONO / EVEN[ ]NIO LO / CI DEO PATRIO / MARTI CONSERVATORI / D D OM C SECVRI / VS DOMIT[ ]NVS M / IL LEG VIII [ ] P F C C / ANTONIN[ ] / [ ]S PRO [ ] / [ ]TIA STAT [ ] / IVL DVOB A[ ]",
+         "findspot_ancient" : "(Civitas Alisinensium)",
+         "type_of_monument" : "altar",
+         "religion" : "names of pagan deities",
+         "commentary" : " Gefunden beim Abbruch der Kirche St. Kilian. (B): Schallmayer et al: Z. 10/11: Antonin[ianae] / [b(ene)f(iciarius). AE 1978; Schillinger-Häfele; RSO: kleinere Leseabweichungen.",
+         "not_before" : "0212",
+         "responsible_individual" : "osnabrügge",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F034887.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F034888.JPG"
+         ],
+         "material" : "sandstone: rocks - clastic sediments",
+         "height" : "145 cm",
+         "year_of_find" : "1970",
+         "type_of_inscription" : "votive inscription",
+         "military" : "data available",
+         "literature" : "AE 1978, 0525. (B); U. Schillinger-Häfele, FBW 1, 1974, 534-536, Nr. 1; Abb. 1. (B); U. Schillinger-Häfele, BRGK 58, 1977, 480-481, Nr. 44. (B) - AE 1978.; RSO 092. (B); E. Schallmayer - K. Eibl - J. Ott - G. Preuß - E. Wittkopf, Der römische Weihebezirk von Osterburken 1 (Stuttgart 1990) 158, Nr. 173; Abb. 173. (B); PIR (2. Aufl.) I 182.; PIR (2. Aufl.) I 334.",
+         "external_image_uris" : [
+            "http://lupa.at/25700"
+         ],
+         "findspot_modern" : "Osterburken",
+         "language" : "Latin",
+         "people" : [
+            {
+               "praenomen" : "C.",
+               "nomen" : "Securius",
+               "person_id" : "1",
+               "status" : "military personnel",
+               "cognomen" : "Domitianus+",
+               "gender" : "male",
+               "name" : "C. Securius Domit[ia]nus"
+            },
+            {
+               "name" : "A[spris]",
+               "gender" : "male",
+               "status" : "senatorial order",
+               "cognomen" : "Asper+",
+               "person_id" : "2"
+            },
+            {
+               "gender" : "male",
+               "name" : "A[spris]",
+               "person_id" : "3",
+               "status" : "senatorial order",
+               "cognomen" : "Asper+"
+            }
+         ],
+         "findspot" : "S. Kilian, altes Kirchengebäude, sekundär verwendet",
+         "width" : "34 cm",
+         "work_status" : "checked with photo",
+         "last_update" : "2018-11-14",
+         "id" : "HD004519"
+      },
+      {
+         "external_image_uris" : [
+            "http://lupa.at/25698"
+         ],
+         "findspot_modern" : "Osterburken",
+         "language" : "Latin",
+         "people" : [
+            {
+               "status" : "military personnel",
+               "nomen" : "[---]",
+               "name" : "[--- S]a[t]urninus [civis T]rever",
+               "gender" : "male",
+               "origo" : "civis+ Trever+",
+               "cognomen" : "Saturninus+",
+               "person_id" : "1",
+               "praenomen" : "[-]?"
+            },
+            {
+               "name" : "[Pio]",
+               "gender" : "male",
+               "status" : "senatorial order",
+               "cognomen" : "Pius+",
+               "person_id" : "2"
+            },
+            {
+               "gender" : "male",
+               "name" : "Proc.",
+               "person_id" : "3",
+               "cognomen" : "Proculus*",
+               "status" : "senatorial order"
+            }
+         ],
+         "height" : "(70) cm",
+         "year_of_find" : "1970",
+         "type_of_inscription" : "votive inscription",
+         "military" : "data available",
+         "literature" : "AE 1978, 0528. (B); U. Schillinger-Häfele, FBW 1, 1974, 540-542, Nr. 4; Abb. 4. (B); U. Schillinger-Häfele, BRGK 58, 1977, 483, Nr. 47. (B) - AE 1978.; RSO 095. (B); E. Schallmayer - K. Eibl - J. Ott - G. Preuß - E. Wittkopf, Der römische Weihebezirk von Osterburken 1 (Stuttgart 1990) 159, Nr. 174; Abb. 174.; PIR (2. Aufl.) F 553.; PIR (2. Aufl.) P 818.",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F034892.JPG"
+         ],
+         "material" : "sandstone: rocks - clastic sediments",
+         "id" : "HD004522",
+         "last_update" : "2019-01-03",
+         "findspot" : "S. Kilian, altes Kirchengebäude, sekundär verwendet",
+         "width" : "(26) cm",
+         "geography" : "data available",
+         "work_status" : "checked with photo",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209847",
+         "country" : "Germany",
+         "transcription" : "[I(ovi) O(ptimo) M(aximo)] / [et Iuno]n(i) Reg(inae) / [et Gen]io loci / [--- S]a[t]urninus / [civis T]rever / [mil(es) leg(ionis)] XXII Pr(imigeniae) p(iae) f(idelis) / [b(ene)f(iciarius)] co(n)s(ularis) / [v(otum) s(olvit)] l(ibens) l(aetus) m(erito) / [Pio e]t Proc(ulo) / co(n)s(ulibus)",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004522",
+         "letter_size" : "6-5.5 cm",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8810",
+         "modern_region" : "Baden-Württemberg",
+         "responsible_individual" : "osnabrügge",
+         "not_before" : "0238",
+         "type_of_monument" : "altar",
+         "findspot_ancient" : "(Civitas Alisinensium)",
+         "commentary" : " Fragment eines Altars, oben, links und unten abgebrochen. (B): AE 1978: Z. 2: [Iuno]ni. AE 1978; Schillinger-Häfele; RSO: Z. 1/2: kein Zeilenfall angegeben. Gefunden beim Abbruch der Kirche St. Kilian.",
+         "religion" : "names of pagan deities",
+         "province_label" : "Germania superior",
+         "present_location" : "Osterburken, Römermus.",
+         "diplomatic_text" : "[ ] / [ ]N REG / [ ]IO LOCI / [ ]A[ ]VRNINVS / [ ]REVER / [ ] XXII PR P F / [ ] COS / [ ] L L M / [ ]T PROC / COS",
+         "depth" : "(23) cm"
+      },
+      {
+         "id" : "HD004531",
+         "responsible_individual" : "Feraudi",
+         "not_before" : "0201",
+         "last_update" : "2009-06-25",
+         "findspot_ancient" : "Nida (Civitas Taunensium)",
+         "type_of_monument" : "block",
+         "commentary" : " Inschrift auf dem Sockel eines Monumentes, das eine auf einem quadratischen Thron sitzende Göttin darstellt. Dea Candida Regina bisher nicht bezeugt. Y: Datierung nach stilistischen Merkmalen der Figur.",
+         "religion" : "names of pagan deities",
+         "findspot" : "Nordweststadt, römischer Brunnen",
+         "province_label" : "Germania superior",
+         "diplomatic_text" : "DEAE CANDIDAE / REGINAE / L AVGVSTIVS / IVSTVS | COH / II RAETORVM / V S L L M",
+         "work_status" : "provisional",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209850",
+         "external_image_uris" : [
+            "http://lupa.at/7178"
+         ],
+         "country" : "Germany",
+         "findspot_modern" : "Frankfurt/Main",
+         "language" : "Latin",
+         "people" : [
+            {
+               "name" : "L. Augustius Iustus",
+               "person_id" : "1",
+               "status" : "military personnel",
+               "cognomen" : "Iustus",
+               "praenomen" : "L.",
+               "nomen" : "Augustius"
+            }
+         ],
+         "transcription" : "Deae Candidae / Reginae / L(ucius) Augustius / Iustus | coh(ortis) / II Raetorum / v(otum) s(olvit) l(ibens) l(aetus) m(erito)",
+         "not_after" : "0230",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004531",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8444",
+         "literature" : "AE 1978, 0535.; U. Schillinger-Häfele, BRGK 58, 1977, 510-511, Nr. 105. - AE 1978.",
+         "military" : "data available",
+         "type_of_inscription" : "votive inscription",
+         "modern_region" : "Hessen",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F022935.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F022936.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F030250.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F030251.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F030341.JPG"
+         ]
+      },
+      {
+         "findspot" : "Lager, bei",
+         "work_status" : "checked with photo",
+         "width" : "33 cm",
+         "id" : "HD004537",
+         "last_update" : "2017-08-09",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F023381.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F023382.JPG"
+         ],
+         "material" : "sandstone: rocks - clastic sediments",
+         "findspot_modern" : "Obernburg/Main",
+         "external_image_uris" : [
+            "http://lupa.at/6985"
+         ],
+         "people" : [
+            {
+               "name" : "Paternius Amandus",
+               "gender" : "male",
+               "cognomen" : "Amandus",
+               "person_id" : "1",
+               "nomen" : "Paternius"
+            }
+         ],
+         "language" : "Latin",
+         "height" : "75 cm",
+         "literature" : "AE 1978, 0533.; AE 2008, 0967.; RSO 132; Taf. 6, 132.; U. Schillinger-Häfele, BRGK 58, 1977, 487, Nr. 55. - AE 1978.; A. Reis, BVBl 73, 2008, 87. 91. 96-98, Nr. 1; Abb. 4, 1 (Zeichnung). - AE 2008.; G. Bauchhenß, in: G. Bauchhenß - P. Noelke, Die Iupitersäulen in den germanischen Provinzen, BJ (Beih.) 41 (Köln - Bonn 1981) 200, Nr. 408.; M. Mattern, Römische Steindenkmäler aus Hessen südlich des Mains sowie vom bayerischen Teil des Mainlimes, CSIR Deutschland 2, 13 (Mainz 2005) 108, Nr. 164; Tafel 57, 164. (B)",
+         "type_of_inscription" : "votive inscription",
+         "year_of_find" : "1959",
+         "type_of_monument" : "altar",
+         "findspot_ancient" : "(Civitas Auderiensium)",
+         "commentary" : " Gefunden in einem römischen Brunnen. Auf der linken Nebenseite ein Blitzbündel mit einem weiteren Gegenstand, auf der rechten Nebenseite eine Axt. (B): Z. 3/4: Amand/us.",
+         "religion" : "names of pagan deities",
+         "province_label" : "Germania superior",
+         "present_location" : "Obernburg, Römermus.",
+         "diplomatic_text" : "I O M / PATERNI / VS AMAN / DVS V S / L L M",
+         "depth" : "30 cm",
+         "responsible_individual" : "gräf",
+         "not_before" : "0201",
+         "modern_region" : "Bayern",
+         "country" : "Germany",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209852",
+         "transcription" : "I(ovi) O(ptimo) M(aximo) / Paterni/us Aman/dus v(otum) s(olvit) / l(ibens) l(aetus) m(erito)",
+         "not_after" : "0230",
+         "letter_size" : "4.5-3 cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004537",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8536"
+      },
+      {
+         "width" : "40 cm",
+         "work_status" : "checked with photo",
+         "depth" : "32 cm",
+         "present_location" : "Großkrotzenburg, Heimatmus.",
+         "diplomatic_text" : "IN H D D / I O M IVN / REGINAE / GEN LOCI / M COSSI / VS FLOREN / TINVS MIL / LEG VIII AVG / SEV BF COS PRO / SE E SV[ ]S V S I I M / / XVII K FE[ ]T AEL COS",
+         "province_label" : "Germania superior",
+         "findspot" : "Nebenstraße / Haingasse, Ecke",
+         "commentary" : " Z. 11 befindet sich auf der Profilierung der crepido. (B): Schillinger-Häfele; AE 1978; Mattern: Z. 10: su[is]; l(ibens) l(aetus); Schallmayer - Eibl - Ott - Preuß - Wittkopf: Z. 10: l(ibens) l(aetus).",
+         "religion" : "names of pagan deities",
+         "type_of_monument" : "altar",
+         "last_update" : "2018-03-14",
+         "not_before" : "0223",
+         "id" : "HD004582",
+         "responsible_individual" : "gräf",
+         "material" : "sandstone: rocks - clastic sediments",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F030213.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F030214.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F030215.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F030216.JPG"
+         ],
+         "modern_region" : "Hessen",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8664",
+         "year_of_find" : "1960",
+         "type_of_inscription" : "votive inscription",
+         "military" : "data available",
+         "literature" : "AE 1978, 0550. (B); U. Schillinger-Häfele, BRGK 58, 1977, 519, Nr. 127; Taf. 4. - AE 1978.; H. Lieb, in: M.G. Jarret - B. Dobson, Britain and Rome (London 1965) 140. - AE 1978.; M. Mattern, Römische Steindenkmäler vom Taunus- und Wetteraulimes mit Hinterland zwischen Heftrich und Großkrotzenburg, CSIR Deutschland 2, 12 (Mainz 2001) 125-126, Nr. 276; Tafel 100, 276. (B); E. Schallmayer - K. Eibl - J. Ott - G. Preuß - E. Wittkopf, Der römische Weihebezirk von Osterburken 1 (Stuttgart 1990) 96-97, Nr. 106; Foto. (B); PIR (2. Aufl.) M 308.; PIR (2. Aufl.) R 92.",
+         "height" : "99 cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004582",
+         "people" : [
+            {
+               "praenomen" : "M.",
+               "nomen" : "Cossius",
+               "person_id" : "1",
+               "cognomen" : "Florentinus",
+               "status" : "military personnel",
+               "gender" : "male",
+               "name" : "M. Cossius Florentinus"
+            },
+            {
+               "name" : "[Maximo]",
+               "gender" : "male",
+               "status" : "senatorial order",
+               "cognomen" : "Maximus+",
+               "person_id" : "2"
+            },
+            {
+               "gender" : "male",
+               "name" : "Ael.",
+               "person_id" : "3",
+               "status" : "senatorial order",
+               "cognomen" : "Aelianus*"
+            }
+         ],
+         "language" : "Latin",
+         "transcription" : "In h(onorem) d(omus) d(ivinae) / I(ovi) O(ptimo) M(aximo) Iun(oni) / Reginae / Gen(io) loci / M(arcus) Cossi/us Floren/tinus mil(es) / leg(ionis) VIII Aug(ustae) / Sev(erianae) b(ene)f(iciarius) co(n)s(ularis) pro / se e(t) su[i]s v(otum) s(olvit) <l=I>(ibens) <l=I>(aetus) m(erito) // XVII K(alendas) Fe[b(ruarias) Maximo e]t Ael(iano) co(n)s(ulibus)",
+         "external_image_uris" : [
+            "http://lupa.at/6989"
+         ],
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209860",
+         "country" : "Germany",
+         "findspot_modern" : "Großkrotzenburg"
+      },
+      {
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209862",
+         "country" : "Germany",
+         "not_after" : "0232",
+         "transcription" : "[I(ovi) O(ptimo) M(aximo) Iu]noni / [Reg(inae)? dis] deab/[usque] omnibus / [---]o TOVTIO / [---]SIGIOPI / [---]s Victo/[rinus mi]l(es) leg(ionis) VIII / [Aug(ustae) [[[Ale]xandri]]]/[[[anae]]] b(ene)f(iciarius) co(n)s(ularis) / [v(otum) s(olvit)] l(ibens) m(erito) / [---]liano et / [---] co(n)s(ulibus)",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD004603",
+         "letter_size" : "6.8-5.0 cm",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8810",
+         "modern_region" : "Baden-Württemberg",
+         "responsible_individual" : "osnabrügge",
+         "not_before" : "0223",
+         "findspot_ancient" : "(Civitas Alisinensium)",
+         "type_of_monument" : "altar?",
+         "religion" : "names of pagan deities",
+         "commentary" : " Ergänzung [Ae]liano et [Maximo] (Konsuln des Jahres 223) oder [Iu]liano et [Crispino] (Konsuln des Jahres 224) möglich. Nach Schallmayer et al. kommt dagegen nur (Lupo) Iu]liano et [Maximo] (Konsuln des Jahres 232) in Frage. Gefunden beim Abbruch der Kirche St. Kilian. Auf der rechten Nebenseite Baum. (B): AE 1978: Z. 2: Reg(inae) dis deab(usque); Schillinger-Häfele: dis deab(usque).",
+         "province_label" : "Germania superior",
+         "present_location" : "Osterburken, Römermus.",
+         "diplomatic_text" : "[ ]NONI / [ ] DEAB / [ ] OMNIBVS / [ ]O TOVTIO / [ ]SIGIOPI / [ ]S VICTO / [ ]L LEG VIII / [[[[ ]]]] / [[[ ]]] BF COS / [ ] L M / [ ]LIANO ET / [ ] COS",
+         "depth" : "72 cm",
+         "external_image_uris" : [
+            "http://lupa.at/25696"
+         ],
+         "findspot_modern" : "Osterburken",
+         "language" : "Latin",
+         "people" : [
+            {
+               "gender" : "male",
+               "name" : "[---]s Victo[rinus]",
+               "praenomen" : "[-]?",
+               "nomen" : "[---]s",
+               "person_id" : "1",
+               "status" : "military personnel",
+               "cognomen" : "Victorinus+"
+            },
+            {
+               "status" : "senatorial order",
+               "cognomen" : "[---]lianus",
+               "person_id" : "2",
+               "name" : "[---]liano",
+               "gender" : "male"
+            },
+            {
+               "gender" : "male",
+               "name" : "[---]",
+               "person_id" : "3",
+               "cognomen" : "[---]",
+               "status" : "senatorial order"
+            }
+         ],
+         "height" : "108 cm",
+         "year_of_find" : "1971",
+         "military" : "data available",
+         "literature" : "AE 1978, 0527. (B); U. Schillinger-Häfele, FBW 1, 1974, 538-540, Nr. 3; Abb. 3. (B); U. Schillinger-Häfele, BRGK 58, 1977, 482-483, Nr. 46. - AE 1978.; RSO 094.; E. Schallmayer - K. Eibl - J. Ott. - G. Preuß - E. Wittkopf, Der römische Weihebezirk von Osterburken 1 (Stuttgart 1990) 156-157, Nr. 171; Abb. 171.",
+         "type_of_inscription" : "votive inscription",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F034890.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F034891.JPG"
+         ],
+         "material" : "sandstone: rocks - clastic sediments",
+         "id" : "HD004603",
+         "last_update" : "2019-01-03",
+         "findspot" : "S. Kilian, altes Kirchengebäude, sekundär verwendet",
+         "width" : "(27) cm",
+         "work_status" : "checked with photo"
+      },
+      {
+         "last_update" : "2019-03-15",
+         "not_before" : "0222",
+         "id" : "HD005770",
+         "responsible_individual" : "Feraudi",
+         "width" : "48 cm",
+         "work_status" : "checked with photo",
+         "depth" : "17 cm",
+         "present_location" : "Leiden, Nat. Mus. Arch. (Rijksmus.)",
+         "diplomatic_text" : "DE / / AE / SENEVCAEGE / [ ]FINVS P F TRIBVN / [ ]G XXX V V SEVERIANE / [[ALEXANDRIANE]] / [ ]AM CVM EDE SVA A SO / [ ] FECIT V S L M IMP / [ ] SEVERO [[ALEXANDRO]] / [[COS]]",
+         "findspot" : "Zennewijnen",
+         "province_label" : "Germania inferior",
+         "religion" : "names of pagan deities",
+         "commentary" : " Z. 2: Lesung des Namens des Dedikanten und dessen sozialer Status unklar. (B): Oxé, AE 1933: abweichende Textwiedergaben; Reuter: Z. 4: [leg(ionis)].",
+         "type_of_monument" : "altar",
+         "year_of_find" : "1930",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30094",
+         "military" : "data available",
+         "type_of_inscription" : "votive inscription",
+         "literature" : "AE 1981, 0657.; AE 1933, 0157. (B); P. Stuart, OMRL 62, 1981, 51-58; Taf. 18 u. 19; Abb. 2; Ab. 1 u. 3 (Zeichnungen). - AE 1981.; M. Reuter, Legio XXX Ulpia victrix. Ihre Geschichte, ihre Soldaten, ihre Denkmäler (Xanten 2012) 74-75, Nr. 25; Foto. (B); A. Oxé, OMRL 12, 1931, 5-12; Abb. 5 a-c; Abb. 6 (Zeichnungen). (B) - AE 1933.",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD005770",
+         "height" : "95.5 cm",
+         "language" : "Latin",
+         "people" : [
+            {
+               "gender" : "male",
+               "name" : "[---]finus P.f.",
+               "person_id" : "1",
+               "status" : "equestrian order",
+               "cognomen" : "Ulfenus"
+            },
+            {
+               "person_id" : "2",
+               "cognomen" : "Severus Alexander++",
+               "gender" : "male",
+               "name" : "Severo [[Alexandro]]"
+            }
+         ],
+         "transcription" : "De//ae / S(?)eneucaeg(a)e / [---]finus P(ubli) f(ilius) tribun(us) / [le]g(ionis) XXX U(lpiae) v(ictricis) Severian(a)e / [[Alexandrian(a)e]] / [ar]am cum (a)ede sua a so/[lo] fecit v(otum) s(olvit) l(ibens) m(erito) Imp(eratore) / [d(omino) n(ostro)] Severo [[Alexandro]] / [[co(n)s(ule)]]",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208812",
+         "external_image_uris" : [
+            "http://cil-old.bbaw.de/test06/bilder/datenbank/PH0006351.jpg"
+         ],
+         "country" : "Netherlands",
+         "findspot_modern" : "Tiel",
+         "material" : "limestone: rocks - clastic sediments",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F025458.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F025459.JPG"
+         ],
+         "modern_region" : "Gelderland"
+      },
+      {
+         "modern_region" : "Rheinland-Pfalz",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/8408",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD006008",
+         "letter_size" : "1.8-2 cm",
+         "transcription" : "In h(onorem) d(omus) d(ivinae) / deo Silvano et / Genio loci et / Deanae / C(aius) Iulius Super / mil(es) leg(ionis) XXII Pr(imigeniae) p(iae) f(idelis) / b(ene)f(iciarius) co(n)s(ularis) / v(otum) s(olvit) l(ibens) l(aetus) m(erito) / Imp(eratore) Antonino Aug(usto) / II [[et Geta Caes(are)]] co(n)s(ulibus) / Idib(us) Iul(iis)",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209883",
+         "country" : "Germany",
+         "diplomatic_text" : "IN H D D / DEO SILVANO ET / GENIO LOCI ET / DEANAE / C IVLIVS SVPER / MIL LEG XXII PR P F / BF COS / V S L L M / IMP ANTONINO AVG / II [[ET GETA CAES]] COS / IDIB IVL",
+         "depth" : "29.5 cm",
+         "present_location" : "Mainz, Grebenstraße, Priesterseminar",
+         "province_label" : "Germania superior",
+         "commentary" : " (B): Herz ZPE; AE 1976: abweichende Textwiedergabe.",
+         "religion" : "names of pagan deities",
+         "findspot_ancient" : "Mogontiacum",
+         "type_of_monument" : "altar",
+         "not_before" : "0205",
+         "responsible_individual" : "gräf",
+         "material" : "sandstone: rocks - clastic sediments",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F016213.JPG"
+         ],
+         "year_of_find" : "1968",
+         "military" : "data available",
+         "type_of_inscription" : "votive inscription",
+         "literature" : "AE 1976, 0503. (B); AE 1979, 0427.; P. Herz, ZPE 22, 1976, 193-194, Nr. 3. (B) - AE 1976.; P. Herz, MZ 73/74, 1978/79, 278-279, Nr. 8; Taf. 51, 8. - AE 1979.; H.G. Frenz, Denkmäler römischen Götterkultes aus Mainz und Umgebung, CSIR Deutschland 2, 4 (Mainz 1992) 96, Nr. 62; Tafel 56, 62.; E. Schallmayer - K. Eibl - J. Ott - G. Preuß - E. Wittkopf, Der römische Weihebezirk von Osterburken 1 (Stuttgart 1990) 115-116, Nr. 128; Foto.",
+         "height" : "84 cm",
+         "language" : "Latin",
+         "people" : [
+            {
+               "name" : "C. Iulius Super",
+               "gender" : "male",
+               "cognomen" : "Super",
+               "status" : "military personnel",
+               "person_id" : "1",
+               "nomen" : "Iulius",
+               "praenomen" : "C."
+            },
+            {
+               "name" : "Antonino",
+               "gender" : "male",
+               "cognomen" : "Antoninus",
+               "person_id" : "2"
+            },
+            {
+               "person_id" : "3",
+               "cognomen" : "Geta++",
+               "gender" : "male",
+               "name" : "[[Geta]]"
+            }
+         ],
+         "findspot_modern" : "Mainz",
+         "width" : "39.5 cm",
+         "work_status" : "checked with photo",
+         "findspot" : "Grebenstraße 8 (Arnsburger Hof)",
+         "last_update" : "2018-03-14",
+         "id" : "HD006008"
+      },
+      {
+         "province_label" : "Germania inferior",
+         "findspot" : "Iversheim, bei, \\\"Hohe Ley\\\"",
+         "depth" : "22 cm",
+         "work_status" : "checked with photo",
+         "present_location" : "Bonn, Rhein. Landesmus.",
+         "diplomatic_text" : "MINERVAE / [ ] FRONTINIVS / SIMILIS / MIL LEG XXX / V V V S L M",
+         "width" : "45 cm",
+         "type_of_monument" : "altar",
+         "religion" : "names of pagan deities",
+         "not_before" : "0201",
+         "last_update" : "2018-11-09",
+         "responsible_individual" : "Feraudi",
+         "id" : "HD006175",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018519.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018520.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018521.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018522.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018523.JPG"
+         ],
+         "material" : "sandstone: rocks - clastic sediments",
+         "modern_region" : "Nordrhein-Westfalen",
+         "letter_size" : "4-3.5 cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD006175",
+         "height" : "70 cm",
+         "literature" : "AE 1977, 0559.; M. Clauss, in: EpStud 11 (Köln 1976) 16-17, Nr. 22; Taf. 6, 4. - AE 1977.; M. Reuter, Legio XXX Ulpia victrix. Ihre Geschichte, ihre Soldaten, ihre Denkmäler (Darmstadt - Mainz 2012) 121-122, Nr. 79; Foto.",
+         "military" : "data available",
+         "type_of_inscription" : "votive inscription",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30108",
+         "year_of_find" : "1968",
+         "findspot_modern" : "Bad Münstereifel",
+         "country" : "Germany",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208829",
+         "transcription" : "Minervae / [-] Frontinius / Similis / mil(es) leg(ionis) XXX / U(lpiae) v(ictricis) v(otum) s(olvit) l(ibens) m(erito)",
+         "not_after" : "0300",
+         "language" : "Latin",
+         "people" : [
+            {
+               "gender" : "male",
+               "name" : "[-] Frontinius Similis",
+               "praenomen" : "[-]",
+               "nomen" : "Frontinius",
+               "person_id" : "1",
+               "status" : "military personnel",
+               "cognomen" : "Similis"
+            }
+         ]
+      },
+      {
+         "modern_region" : "Nordrhein-Westfalen",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30105",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD006178",
+         "letter_size" : "3 cm",
+         "transcription" : "Minervae sacrum / T(itus) Aurelius / Exoratus m(iles) l(egionis) / XXX U(lpiae) v(ictricis) magist(er) / calc(ariorum) [---] / HS XXIV(?) [v(otum) s(olvit)] l(ibens) m(erito)",
+         "not_after" : "0250",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208830",
+         "country" : "Germany",
+         "present_location" : "Bonn, Rhein. Landesmus.",
+         "diplomatic_text" : "MINERVAE SACRVM / T AVRELIVS / EXORATVS M L / XXX V V MAGIST / CALC [ ] / HS XXIV [ ] L M",
+         "depth" : "19 cm",
+         "province_label" : "Germania inferior",
+         "religion" : "names of pagan deities",
+         "type_of_monument" : "altar",
+         "not_before" : "0201",
+         "responsible_individual" : "Feraudi",
+         "social_economic_legal_history" : "data available",
+         "material" : "sandstone: rocks - clastic sediments",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018518.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F004133.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018517.JPG"
+         ],
+         "year_of_find" : "1968",
+         "military" : "data available",
+         "literature" : "AE 1977, 0558.; M. Clauss, in: EpStud 11 (Köln 1976) 15-16, Nr. 21; Taf. 6, 3. - AE 1977.; AE 2008, 0933.; G. Bauchhenß - G. Hartke - M. Romussi, ArchRhein 2008, 104-105; Abb. 112 u. 113. - AE 2008.; M. Reuter, Legio XXX Ulpia victrix. Ihre Geschichte, ihre Soldaten, ihre Denkmäler (Darmstadt - Mainz 2012) 113-114, Nr. 68; Foto.",
+         "type_of_inscription" : "votive inscription",
+         "height" : "66 cm",
+         "people" : [
+            {
+               "gender" : "male",
+               "name" : "T. Aurelius Exoratus",
+               "praenomen" : "T.",
+               "nomen" : "Aurelius",
+               "person_id" : "1",
+               "cognomen" : "Exoratus",
+               "status" : "military personnel"
+            }
+         ],
+         "language" : "Latin",
+         "findspot_modern" : "Bad Münstereifel",
+         "width" : "40 cm",
+         "work_status" : "checked with photo",
+         "findspot" : "Iversheim, bei, \\\"Hohe Ley\\\", Kalkbrennofen, sekundär verwendet",
+         "last_update" : "2018-11-09",
+         "id" : "HD006178"
+      },
+      {
+         "province_label" : "Germania inferior",
+         "findspot" : "Am Wichelshof 33",
+         "width" : "59 cm",
+         "depth" : "43 cm",
+         "present_location" : "Bonn, Rhein. Landesmus.",
+         "diplomatic_text" : "IN H D D / / DEO HERCVLI MAG / M NAEVIVS MINERVI / NVS OPTIO PRINCI / PIS LEG I M P F [[S A]] / IMP D N [[ALEXANDRO]] / AVG II ET MARCEL / LO COS V S L M",
+         "work_status" : "checked with photo",
+         "findspot_ancient" : "Bonna",
+         "type_of_monument" : "altar",
+         "not_before" : "0226",
+         "last_update" : "2019-02-22",
+         "id" : "HD011479",
+         "responsible_individual" : "Feraudi",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F028430.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F017028.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F017029.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F017030.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F017031.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F020239.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F020240.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F020241.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F028431.JPG"
+         ],
+         "material" : "Trachyte",
+         "modern_region" : "Nordrhein-Westfalen",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD011479",
+         "height" : "113 cm",
+         "letter_size" : "3.6-3.3 cm",
+         "year_of_find" : "1963",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/31729",
+         "literature" : "AE 1971, 0282.; U. Schillinger-Häfele, BRGK 58, 1977, 535-537, Nr. 161.; H.G. Horn, BJ 170, 1970, 233-252; fig. 1-13. - AE 1971.; CF-GeI-139 [hdl.handle.net/11471/504.50.139] (22.02.2019).; PIR (2. Aufl.) A 1389.",
+         "military" : "data available",
+         "type_of_inscription" : "votive inscription",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208938",
+         "external_image_uris" : [
+            "http://lupa.at/20437"
+         ],
+         "country" : "Germany",
+         "findspot_modern" : "Bonn",
+         "people" : [
+            {
+               "gender" : "male",
+               "name" : "M. Naevius Minervinus",
+               "praenomen" : "M.",
+               "nomen" : "Naevius",
+               "person_id" : "1",
+               "cognomen" : "Minervinus",
+               "status" : "military personnel"
+            },
+            {
+               "name" : "[[Alexandro]]",
+               "gender" : "male",
+               "cognomen" : "Alexander++",
+               "person_id" : "2"
+            },
+            {
+               "status" : "senatorial order",
+               "cognomen" : "Marcellus",
+               "person_id" : "3",
+               "name" : "Marcello",
+               "gender" : "male"
+            }
+         ],
+         "language" : "Latin",
+         "transcription" : "In h(onorem) d(omus) d(ivinae) // Deo Herculi Mag(usano) / M(arcus) Naevius Minervi/nus optio princi/pis leg(ionis) I M(inerviae) p(iae) f(idelis) [[S(everianae) A(lexandrianae)]] / Imp(eratore) d(omino) n(ostro) [[Alexandro]] / Aug(usto) II et Marcel/lo co(n)s(ulibus) v(otum) s(olvit) l(ibens) m(erito)"
+      },
+      {
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209959",
+         "findspot_modern" : "Mainz",
+         "country" : "Germany",
+         "people" : [
+            {
+               "name" : "M. A. Iustius Belatullus",
+               "gender" : "male",
+               "cognomen" : "Belatullus",
+               "person_id" : "1",
+               "occupation" : "data available",
+               "nomen" : "Aurelius* Iustius",
+               "praenomen" : "M."
+            },
+            {
+               "name" : "Aspro",
+               "gender" : "male",
+               "cognomen" : "Asper",
+               "status" : "senatorial order",
+               "person_id" : "2"
+            },
+            {
+               "gender" : "male",
+               "name" : "Aspro",
+               "person_id" : "3",
+               "cognomen" : "Asper",
+               "status" : "senatorial order"
+            }
+         ],
+         "language" : "Latin",
+         "transcription" : "In h(onorem) d(omus) d(ivinae) // de(ae) Minervae / M(arcus) A(urelius) Iustius / Belatullus / mag(ister) plum(ariorum?) / v(otum) s(olvit) l(ibens) l(aetus) m(erito) / Aspro et Aspro // c[o(n)s(ulibus)]",
+         "height" : "46.5 cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD012285",
+         "letter_size" : "2.7-3.2 cm",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30453",
+         "year_of_find" : "1973",
+         "literature" : "AE 1976, 0500. (B); H.G. Frenz, Denkmäler römischen Götterkultes aus Mainz und Umgebung, CSIR Deutschland 2, 4 (Mainz 1992) 67, Nr. 13; Tafel 14, 12.; H. Büsing, MZ 69, 1974, 287, Nr. 8; Taf. 46, 17.; P. Herz, MZ 73/74, 1978/79, 276-277; Taf. 50, 4. (B); W. Selzer, Römische Steindenkmäler. Mainz in römischer Zeit. Katalog zur Sammlung in der Steinhalle (Mainz 1988) 209, Nr. 185; Foto. (B); PIR (2. Aufl.) I 182.; PIR (2. Aufl.) I 334.",
+         "type_of_inscription" : "votive inscription",
+         "modern_region" : "Rheinland-Pfalz",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F016211.JPG"
+         ],
+         "material" : "sandstone: rocks - clastic sediments",
+         "id" : "HD012285",
+         "responsible_individual" : "gräf",
+         "not_before" : "0212",
+         "last_update" : "2018-01-17",
+         "type_of_monument" : "altar",
+         "findspot_ancient" : "Mogontiacum",
+         "commentary" : " Z. 1 befindet sich auf der corona, Z. 8 auf der crepido. Z. 5: möglicherweise auch plum(bariorum). (B): Herz; Selzer: AE 1976: Z. 1: [in]; Herz; AE 1976:Z. 5: plu[m(ariorum)]; Selzer: Z. 5: plu(mariorum); Z. 8: c(on)s(ulibus).",
+         "religion" : "names of pagan deities",
+         "province_label" : "Germania superior",
+         "findspot" : "Kästrich 57/59, bei, mittelalterliche Stadtmauer, sekundär verwendet",
+         "width" : "34 cm",
+         "present_location" : "Mainz, Landesmus.",
+         "depth" : "19.5 cm",
+         "work_status" : "checked with photo",
+         "diplomatic_text" : "IN H D D / / DE MINERVAE / M A IVSTIVS / BELATVLLVS / MAG PLVM / V S L L M / ASPRO ET ASPRO / / C[ ]"
+      },
+      {
+         "responsible_individual" : "Feraudi",
+         "id" : "HD014022",
+         "last_update" : "2018-07-10",
+         "not_before" : "0231",
+         "type_of_monument" : "altar",
+         "depth" : "(17.5) cm",
+         "diplomatic_text" : "] Q COEL[ ]VS [ ]LEIANVS S[ ] / V S L M / LEG III CYR [ ]",
+         "present_location" : "Bonn, Rhein. Landesmus.",
+         "work_status" : "checked with photo",
+         "width" : "(44) cm",
+         "findspot" : "Iversheim, bei, Fundstelle 3, Ofen LO13",
+         "province_label" : "Germania inferior",
+         "not_after" : "0270",
+         "transcription" : "------] Q(uintus) Coel[i]us(?) [Procu]leianus s[ig(nifer)] / v(otum) s(olvit) l(ibens) m(erito) / leg(ionis) III Cyr(enaicae) [---]",
+         "people" : [
+            {
+               "person_id" : "1",
+               "status" : "military personnel",
+               "cognomen" : "Proculeianus+",
+               "praenomen" : "Q.",
+               "nomen" : "Coelius+?",
+               "gender" : "male",
+               "name" : "Q. Coel[i]us(?) [Procu]leianus"
+            }
+         ],
+         "language" : "Latin",
+         "findspot_modern" : "Bad Münstereifel",
+         "country" : "Germany",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208959",
+         "military" : "data available",
+         "literature" : "AE 1968, 0392.; U. Schillinger-Häfele, BRGK 58, 1977, 531-532, Nr. 152.; G. Alföldy, in: EpStud 5 (Düsseldorf 1968) 23-25, Nr. 10; Taf. 7, 1 u. 2. - AE 1968.",
+         "type_of_inscription" : "votive inscription",
+         "year_of_find" : "1967",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/31028",
+         "letter_size" : "3.2-5.5 cm",
+         "height" : "(29) cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD014022",
+         "modern_region" : "Nordrhein-Westfalen",
+         "material" : "limestone: rocks - clastic sediments",
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018747.JPG"
+         ]
+      },
+      {
+         "type_of_monument" : "altar",
+         "religion" : "names of pagan deities",
+         "province_label" : "Germania inferior",
+         "findspot" : "S. Nicolas, Kirche, sekundär verwendet",
+         "width" : "51 cm",
+         "depth" : "47 cm",
+         "present_location" : "Kleve",
+         "work_status" : "provisional",
+         "diplomatic_text" : "[ ]N H D D / / D VIRATHE / THI SVPE / RINA SVP / PONIS / V S L M",
+         "id" : "HD014321",
+         "responsible_individual" : "Feraudi",
+         "not_before" : "0201",
+         "last_update" : "2019-03-04",
+         "material" : "limestone: rocks - clastic sediments",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/208960",
+         "country" : "Belgium",
+         "findspot_modern" : "Strée-lez-Huy",
+         "people" : [
+            {
+               "cognomen" : "Superina",
+               "person_id" : "1",
+               "name" : "Superina",
+               "gender" : "female"
+            },
+            {
+               "cognomen" : "Suppo",
+               "person_id" : "2",
+               "name" : "Supponis",
+               "gender" : "male"
+            }
+         ],
+         "language" : "Latin",
+         "not_after" : "0250",
+         "transcription" : "[I]n h(onorem) d(omus) d(ivinae) // D(eae) Virathe/thi Supe/rina Sup/ponis / v(otum) s(olvit) l(ibens) m(erito)",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD014321",
+         "height" : "96 cm",
+         "letter_size" : "4.5-7.5 cm",
+         "year_of_find" : "1967",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/7650",
+         "literature" : "AE 1968, 0311.; ILB (2. Aufl.) 051; Foto.; J. Loicq, BullSocArtHistDiocLiège 47, 1967, 1-21; pl. 1 u. 2. - AE 1968.; J.E. Bogaers, in: Festoen. Opgedragen aan A.N. Zadoks-Josephus Jitta bij haar zerentigste verjaardag (Groningen - Bussum 1976) 128; Abb. 4.",
+         "type_of_inscription" : "votive inscription"
+      },
+      {
+         "fotos" : [
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F018745.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F034568.JPG",
+            "https://edh-www.adw.uni-heidelberg.de/fotos/F035370.JPG"
+         ],
+         "material" : "limestone: rocks - clastic sediments",
+         "modern_region" : "Nordrhein-Westfalen",
+         "letter_size" : "3-2.5 cm",
+         "height" : "(70) cm",
+         "uri" : "https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD014555",
+         "type_of_inscription" : "votive inscription",
+         "military" : "data available",
+         "literature" : "AE 1968, 0390.; PIR (2. Aufl.) O 25.; PIR (2. Aufl.) R 16.; U. Schillinger-Häfele, BRGK 58, 1977, 533, Nr. 155.; G. Alföldy, in: EpStud 5 (Düsseldorf 1968) 21-22, Nr. 7; Taf. 6, 1 u. 2. - AE 1968.; M. Reuter, Legio XXX Ulpia victrix. Ihre Geschichte, ihre Soldaten, ihre Denkmäler (Darmstadt - Mainz 2012) 134-135, Nr. 98; Foto.",
+         "year_of_find" : "1966",
+         "edh_geography_uri" : "https://edh-www.adw.uni-heidelberg.de/edh/geographie/30111",
+         "findspot_modern" : "Bad Münstereifel",
+         "country" : "Germany",
+         "trismegistos_uri" : "https://www.trismegistos.org/text/209027",
+         "transcription" : "[I(ovi) O(ptimo) M(aximo) et] Miner[vae] // [---]in[iu]s / [S]upe[r]stis mi[l(es)] / [l]eg(ionis) XXX U(lpiae) v(ictricis) Go[r]/dian[a]e im(munis) co(n)[s(ularis)] / v(otum) s(olvit) l(ibens) m(erito) [S]abino [II] et V[en]usto / co(n)s(ulibus)",
+         "people" : [
+            {
+               "praenomen" : "[-]?",
+               "nomen" : "[---]inius+",
+               "person_id" : "1",
+               "cognomen" : "Superstis+",
+               "status" : "military personnel",
+               "gender" : "male",
+               "name" : "[---]in[iu]s [S]upe[r]stis"
+            },
+            {
+               "status" : "senatorial order",
+               "cognomen" : "Sabinus+",
+               "person_id" : "2",
+               "name" : "[S]abino",
+               "gender" : "male"
+            },
+            {
+               "name" : "V[en]usto",
+               "gender" : "male",
+               "status" : "senatorial order",
+               "cognomen" : "Venustus+",
+               "person_id" : "3"
+            }
+         ],
+         "language" : "Latin",
+         "province_label" : "Germania inferior",
+         "findspot" : "Iversheim, bei, Fundstelle 3, Schnitt 2, Kalkbrennofen, sekundär verwendet",
+         "present_location" : "Xanten, LVR-Archäolog. Park Xanten / Römer-Mus. (Dauerleihgabe aus Bonn, Rhein. Landesmus.)",
+         "depth" : "(14) cm",
+         "work_status" : "checked with photo",
+         "diplomatic_text" : "[ ] MINER[ ] / / [ ]IN[ ]S / [ ]VPE[ ]STIS MI[ ] / [ ]EG XXX V V GO[ ] / DIAN[ ]E IM CO[ ] / V S L M [ ]ABINO [ ] ET V[ ]VSTO / COS",
+         "width" : "(30) cm",
+         "type_of_monument" : "altar",
+         "religion" : "names of pagan deities",
+         "not_before" : "0240",
+         "last_update" : "2018-07-10",
+         "responsible_individual" : "Feraudi",
+         "id" : "HD014555"
+      }
+   ]
+}
